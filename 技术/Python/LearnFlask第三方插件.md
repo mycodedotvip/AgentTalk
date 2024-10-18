@@ -6,3 +6,4 @@ pip install pymysql
 pip install pymysql
 pip install flask-sqlalchemy
 pip install flask-migrate
+pip install python-memcached
