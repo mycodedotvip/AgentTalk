@@ -1,3 +1,7 @@
+# 项目开发完成后，把虚拟环境的依赖包导出，以便在服务器上安装
+# pip freeze > requirements.txt # 导出
+# pip install -r requirements.txt # 安装依赖
+
 pip install flask
 pip install pandas
 pip install openpyxl
