@@ -53,3 +53,25 @@
    **作用**: 显示方法参数列表，帮助你快速查看方法的参数定义。
 
 ###
+
+在 Mac 版的 PyCharm 中，代码补全的快捷键如下：
+
+1. **基础代码补全**（Basic Completion）：
+   - **快捷键**：`Control + Space`
+   - 用于建议变量名、方法名、类名等常规补全。
+
+2. **智能代码补全**（Smart Type Completion）：
+   - **快捷键**：`Control + Shift + Space`
+   - 根据上下文提供更智能的代码补全选项，比如只显示与当前类型匹配的内容。
+
+3. **快速文档查看**（Quick Documentation Lookup）：
+   - **快捷键**：`Control + J`
+   - 可快速查看补全项的文档，了解函数、类等的详细信息。
+
+4. **参数信息**（Parameter Info）：
+   - **快捷键**：`Command + P`
+   - 在输入函数参数时调用，显示函数的参数列表。
+
+5. **导入补全**（Basic Completion with Import）：
+   - **快捷键**：`Option + Enter`
+   - 允许在补全时自动导入所需的模块。
