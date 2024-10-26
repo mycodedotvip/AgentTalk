@@ -12,3 +12,7 @@ pip install flask-mail
 pip install redis
 pip install flask-caching
 pip install celery
+pip install flask-wtf
+pip install email_validator
+pip install faker #生成随机数
+pip install flask-paginate #实现分页，用的是Bootstrap样式
