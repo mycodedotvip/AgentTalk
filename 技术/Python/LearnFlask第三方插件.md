@@ -8,3 +8,7 @@ pip install python-memcached
 pip install redis
 pip install cryptography
 pip install shortuuid
+pip install flask-mail
+pip install redis
+pip install flask-caching
+pip install celery
